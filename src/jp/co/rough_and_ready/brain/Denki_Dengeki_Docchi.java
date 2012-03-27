@@ -3,7 +3,7 @@ package jp.co.rough_and_ready.brain;
 import java.util.HashMap;
 
 /**
- * 電気グルーヴと電撃ネットワークを頭なのかでどうやって切り分けているか整理してみた。
+ * 電気グルーヴと電撃ネットワークを頭の中でどうやって切り分けているか整理してみた。
  *
  *
  * @author seitaro
