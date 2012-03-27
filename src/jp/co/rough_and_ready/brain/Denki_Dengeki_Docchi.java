@@ -5,6 +5,7 @@ import java.util.HashMap;
 /**
  * 電気グルーヴと電撃ネットワークを頭なのかでどうやって切り分けているか整理してみた。
  *
+ *
  * @author seitaro
  *
  */
