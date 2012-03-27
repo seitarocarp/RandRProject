@@ -39,14 +39,14 @@ public class Denki_Dengeki_Docchi {
 		moodMap = new HashMap<String,String>();
 		moodMap.put("100万ボルト", "やばい");
 		moodMap.put("100ボルト", "普通");
-		moodMap.put("1000ボルト", "ビリビリするらしいです");
+		moodMap.put("1000ボルト", "亜種ぐらい");
 	}
 
 	static {
 		biribiriMap = new HashMap<String,String>();
 		biribiriMap.put("やばい", "頭焦げる");
 		biribiriMap.put("普通", "家電製品");
-		biribiriMap.put("ビリビリするらしいです", "フルフルっぽい");
+		biribiriMap.put("亜種ぐらい", "雷電袋");
 	}
 
 	static {
